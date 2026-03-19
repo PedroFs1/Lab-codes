@@ -10,7 +10,7 @@ root.withdraw()
 source = Path(filedialog.askdirectory(title="Pasta principal:"))
 
 #Apagando metadata/campo claro
-patterns = ["*c0x0*", "*.xml"]
+patterns = ["*.xml"]
 for pattern in patterns:
     for file in source.rglob(pattern):
         print("deleting:", file)
