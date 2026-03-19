@@ -1,3 +1,6 @@
+#scrpt Python
+#bibliotecas necessárias: pathlib, shutil
+
 from pathlib import Path
 import shutil
 import tkinter as tk
