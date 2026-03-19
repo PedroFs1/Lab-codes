@@ -1,1 +1,1 @@
-Repositório dedicado aos meus scripts e códigos para análise de dados :)
+Repositório dedicado aos meus scripts para análise de dados :)
